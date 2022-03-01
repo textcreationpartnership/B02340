@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory poem presented to the Right Honourable Sr. Joseph Sheldon Knight and Baronet. Lord Maior of the city of London. Composed by the author of the Geneva ballad.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02340</idno>
+            <idno type="STC">Wing C5832</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[103]</idno>
+            <idno type="EEBO-CITATION">99886913</idno>
+            <idno type="PROQUEST">ocm99886913</idno>
+            <idno type="VID">181430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181430)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[104])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory poem presented to the Right Honourable Sr. Joseph Sheldon Knight and Baronet. Lord Maior of the city of London. Composed by the author of the Geneva ballad.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Brave Walworths dagger, worthy Lord,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181430:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>A Congratulatory POEM Preſented To the Right Honourable S<hi rend="sup">r.</hi> JOSEPH SHELDON <hi>Knight and Baronet.</hi> LORD MAIOR Of the City of London.</head>
+            <byline>Compoſed by the Author of the <hi>Geneva ballad.</hi>
+            </byline>
+            <lg>
+               <l>BRave <hi>Walworths Dagger,</hi> Worthy Lord,</l>
+               <l>
+                  <hi>Rebuds</hi> and <hi>bloſſoms</hi> in your Sword:</l>
+               <l>Lop the <hi>firſt Letter</hi> in his <hi>Name,</hi>
+               </l>
+               <l>
+                  <hi>Your ſelf</hi> and <hi>he</hi> will be the <hi>ſame:</hi>
+               </l>
+               <l>
+                  <hi>Nature</hi> and <hi>Grace</hi> to You impart,</l>
+               <l>An <hi>Aſpect</hi> grave, a Loyal <hi>Heart;</hi>
+               </l>
+               <l>A <hi>Spring-tide-Purſe,</hi> an <hi>Ebbing paſsion;</hi>
+               </l>
+               <l>
+                  <hi>Rigour</hi> allay'd with <hi>Moderation;</hi>
+               </l>
+               <l>A <hi>Still Voyee</hi> in a <hi>Thunder-clap,</hi>
+               </l>
+               <l>Where <hi>Mercy</hi> ſits in <hi>Juſtice Lap:</hi>
+               </l>
+               <l>With all <hi>ingredients</hi> that compleat</l>
+               <l>A <hi>Perfect Chriſtian Magiſtrate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The more's the Pi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty! ſome have made</l>
+               <l>Their <hi>Pow'r</hi> a Pander to their <hi>Trade:</hi>
+               </l>
+               <l>And when the people would be heard,</l>
+               <l>Have <hi>meaſur'd</hi> cauſes by the <hi>Yard:</hi>
+               </l>
+               <l>For Equity but blundr'ing at it,</l>
+               <l>More by the <hi>Shop-book</hi> then the <hi>Statute:</hi>
+               </l>
+               <l>Theſe <hi>Animals</hi> if you would know,</l>
+               <l>They now and then i'th <hi>Country</hi> grow:</l>
+               <l>And may be Pickt up here and there,</l>
+               <l>In half the <hi>Towns</hi> of ev'ry <hi>Shire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But never did ſo Vile Diſgrace</l>
+               <l>Beſpot <hi>Fitz-Allens</hi> Nobler Race;</l>
+               <l>Whoſe Antient <hi>Honours</hi> here we View,</l>
+               <l>By Providence, <hi>transfer'd</hi> to <hi>You,</hi>
+               </l>
+               <l>Whoſe <hi>Port,</hi> and <hi>preſence</hi> well may ſhow,</l>
+               <l>Whom You do <hi>Repreſent</hi> below:</l>
+               <l>That <hi>Auful Mildneſs</hi> Writ upon it,</l>
+               <l>Might make the <hi>Quaker</hi> Vail his <hi>Bonnet:</hi>
+               </l>
+               <l>And him that hopeth a <hi>Reprieve,</hi>
+               </l>
+               <l>Not onely <hi>Tremble</hi> but <hi>Believe;</hi>
+               </l>
+               <l>Conſidering how your <hi>Smile</hi> or <hi>Frown</hi>
+               </l>
+               <l>Can <hi>raiſe</hi> him <hi>up,</hi> or <hi>caſt</hi> him <hi>down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here we may ſee (to <hi>Londons</hi> pride)</l>
+               <l>
+                  <hi>Lambeth</hi> and <hi>Pauls</hi> afreſh <hi>ally'd;</hi>
+               </l>
+               <l>The <hi>Church</hi> and <hi>City</hi> joyntly ſhare</l>
+               <l>A <hi>Metropolitan,</hi> and <hi>Mayor</hi>
+               </l>
+               <l>Of the <hi>ſame</hi> ſtock; whoſe Name ſhall laſt</l>
+               <l>Till <hi>deep-lung'd fame</hi> hath <hi>ſpent</hi> her <hi>blaſt,</hi>
+               </l>
+               <l>Great <hi>Joſeph!</hi> with thy <hi>Brethrens</hi> leaves</l>
+               <l>Accept due <hi>homage</hi> from their <hi>Sheaves;</hi>
+               </l>
+               <l>And be to <hi>us</hi> as <hi>much</hi> or <hi>more</hi>
+               </l>
+               <l>Then that bleſt <hi>Patriarch</hi> was <hi>before</hi>
+               </l>
+               <l>Amongſt the old <hi>Egyptians,</hi> who</l>
+               <l>
+                  <hi>Endear'd</hi> the <hi>Prince</hi> and <hi>people</hi> too:</l>
+               <l>So our wiſe <hi>FORD,</hi> with <hi>Prudence ſweet,</hi>
+               </l>
+               <l>Made <hi>both ends</hi> of the Town to <hi>meet:</hi>
+               </l>
+               <l>So noble <hi>VINER</hi> hath likewiſe</l>
+               <l>Caus'd <hi>Conduits run,</hi> and <hi>Churches riſe;</hi>
+               </l>
+               <l>And in his <hi>Soveraigns ſtatue</hi> ſhown</l>
+               <l>A <hi>laſting Monument</hi> of his <hi>own.</hi>
+               </l>
+               <l>Oh pious pomp! of all the reſt,</l>
+               <l>Theſe <hi>Following pageants</hi> are the <hi>beſt,</hi>
+               </l>
+               <l>Which <hi>Triumph</hi> over <hi>Death,</hi> and ſave</l>
+               <l>Th' <hi>Embalmed</hi> memory from the <hi>grave.</hi>
+               </l>
+               <l>Whoſe <hi>Aqueduct's,</hi> when e're he dye,</l>
+               <l>Will <hi>weep</hi> forth his <hi>beſt Elegy.</hi>
+               </l>
+               <l>Pardon, my Lord, although to you</l>
+               <l>Our <hi>pray'rs,</hi> not our <hi>Advice</hi> is <hi>Due;</hi>
+               </l>
+               <l>Let your <hi>Heav'n-granted</hi> power purſue,</l>
+               <l>The <hi>Hectring,</hi> and the <hi>Damning</hi> crew,</l>
+               <l>
+                  <hi>Blaſphemous Tongue,</hi> and <hi>Bloudy Hand</hi>
+               </l>
+               <l>
+                  <hi>Cuts out new mourning</hi> for the <hi>Land:</hi>
+               </l>
+               <l>
+                  <hi>Superfluous Trees,</hi> by <hi>pruning,</hi> thrive,</l>
+               <l>And <hi>Laws</hi> by <hi>Execution</hi> live:</l>
+               <l>We'r ſubject unto your commanding,</l>
+               <l>Like <hi>Phineh as</hi> do Juſtice <hi>Standing:</hi>
+               </l>
+               <l>For if this be your <hi>Honours Way,</hi>
+               </l>
+               <l>
+                  <hi>Factions</hi> will of themſelves <hi>Decay.</hi>
+               </l>
+            </lg>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Honours Moſt Humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year, 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
